@@ -3,7 +3,7 @@
 # 🚀 Universal Smart Remote Uploader
 ### Direct High-Speed Cloud-to-Cloud Ingestion into Google Drive
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rupam852/-UNIVERSAL-SMART-REMOTE-DOWNLOADER-Colab---Google-Drive-/blob/main/universal_smart_uploader.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![aria2](https://img.shields.io/badge/Downloader-aria2c-green.svg)](https://aria2.github.io/)
